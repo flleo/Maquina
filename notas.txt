@@ -1,0 +1,4 @@
+﻿SALUDO
+Saludo generales y saludos personalizados. 
+Se distinguira entre idiomas
+Mediante una conexion a la api del traductor de google, detectaremos el idioma del cliente, y se almacenara el saludo referenciando Id del Idioma
